@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard
+# Actual sales VS Target Sales
 ## Overview
 This project analyzes sales data to compare actual sales against targets, providing insights into performance by product, sales team, and customer segment. The dashboard visualizes key metrics and trends, helping stakeholders make informed decisions.  
 
